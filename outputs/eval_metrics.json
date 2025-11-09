@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "total_gold_fields": 75,
+    "predicted_nonempty": 72,
+    "coverage_pct": 96.0,
+    "EM_pct": 90.667,
+    "loose_match_pct": 92.0
+  },
+  "per_field": {
+    "有效像素": {
+      "gold": 18,
+      "pred_nonempty": 18,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "连拍最高每秒幅数": {
+      "gold": 16,
+      "pred_nonempty": 16,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "视频压缩/编码": {
+      "gold": 3,
+      "pred_nonempty": 3,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "视频分辨率与帧率": {
+      "gold": 6,
+      "pred_nonempty": 6,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "存储介质": {
+      "gold": 8,
+      "pred_nonempty": 8,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "双卡槽配置": {
+      "gold": 4,
+      "pred_nonempty": 4,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "取景器（要点）": {
+      "gold": 3,
+      "pred_nonempty": 3,
+      "coverage_pct": 100.0,
+      "EM_pct": 33.333,
+      "loose_match_pct": 33.333
+    },
+    "显示屏（要点）": {
+      "gold": 3,
+      "pred_nonempty": 3,
+      "coverage_pct": 100.0,
+      "EM_pct": 33.333,
+      "loose_match_pct": 66.667
+    },
+    "闪光同步速度": {
+      "gold": 3,
+      "pred_nonempty": 3,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "机身尺寸": {
+      "gold": 2,
+      "pred_nonempty": 2,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "机身重量": {
+      "gold": 2,
+      "pred_nonempty": 2,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "总像素": {
+      "gold": 4,
+      "pred_nonempty": 4,
+      "coverage_pct": 100.0,
+      "EM_pct": 100.0,
+      "loose_match_pct": 100.0
+    },
+    "RAW视频帧尺寸/帧率": {
+      "gold": 3,
+      "pred_nonempty": 0,
+      "coverage_pct": 0.0,
+      "EM_pct": 0.0,
+      "loose_match_pct": 0.0
+    }
+  }
+}
