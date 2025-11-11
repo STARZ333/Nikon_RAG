@@ -20,23 +20,28 @@ Loose Match: 92.0%
 
 Example:
 ```
-Q20: Z5II 与 Z6III 的存储介质与双卡槽差异？
+Q1: Z8 与 Z9 的像素与连拍差异？
 
 ==== Answer ====
-结论：已列出所询字段。
-| 字段 | Z6III | Z5II |
-| 存储介质 | CFexpress (B型)，XQD，SD，SDHC (兼容UHS-II) , SDXC (兼容UHS-II)存储卡 | SD、SDHC（兼容UHS-II）、SDXC（兼容UHS-II） |
-| 双卡槽配置 | — | 2张SD卡 |
+结论：有效像素相同，最高连拍相同。
+| 字段 | Z8 | Z9 |
+| - | - | - |
+| 有效像素 | 有效像素数 约4,571万 | 有效像素数 约4,571万 |
+| 连拍最高每秒幅数 | 约120幅/秒 | 约120幅/秒 |
 
 引用：
-Z6III | Nikon_Z6III_specs.pdf | p.2
-Z5II | Nikon_Z5II_specs.pdf | p.2
+Z8 | Nikon_Z8_specs.pdf | p.2
+Z8 | Nikon_Z8_specs.pdf | p.3
+Z9 | Nikon_Z9_specs.pdf | p.2
+Z9 | Nikon_Z9_specs.pdf | p.3
 
 ==== Context(证据句子) ====
 
-- 存储介质 CFexpress (B型)，XQD，SD，SDHC (兼容UHS-II) , SDXC (兼容UHS-II)存储卡 —— 引用：Z6III | Nikon_Z6III_specs.pdf | p.2
-- 存储介质 SD、SDHC（兼容UHS-II）、SDXC（兼容UHS-II） —— 引用：Z5II | Nikon_Z5II_specs.pdf | p.2
-- 双存储卡插槽 2张SD卡 —— 引用：Z5II | Nikon_Z5II_specs.pdf | p.2
+- 有效像素数 约4,571万 —— 引用：Z8 | Nikon_Z8_specs.pdf | p.2
+- 每秒幅数（近似值） ⾼达约120幅/秒 —— 引用：Z8 | Nikon_Z8_specs.pdf | p.3
+- 有效像素数 约4,571万 —— 引用：Z9 | Nikon_Z9_specs.pdf | p.2
+- 每秒幅数（近似值） ⾼达约120幅/秒 —— 引用：Z9 | Nikon_Z9_specs.pdf | p.3
+
 
 ```
 
