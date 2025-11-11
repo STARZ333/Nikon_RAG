@@ -25,7 +25,6 @@ Q20: Z5II 与 Z6III 的存储介质与双卡槽差异？
 ==== Answer ====
 结论：已列出所询字段。
 | 字段 | Z6III | Z5II |
-| - | - | - |
 | 存储介质 | CFexpress (B型)，XQD，SD，SDHC (兼容UHS-II) , SDXC (兼容UHS-II)存储卡 | SD、SDHC（兼容UHS-II）、SDXC（兼容UHS-II） |
 | 双卡槽配置 | — | 2张SD卡 |
 
